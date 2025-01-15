@@ -1,7 +1,7 @@
 # Python-Project-1
 # Movie IMDB Dataset
 
-This dataset contains information about movies from IMDB. It includes details such as title, year of release, genre, rating, and more.
+This dataset contains information about movies from IMDB. It includes details such as title, year of release, cast, ,actor, genre, rating, and more.
 
 ## Data Description
 
